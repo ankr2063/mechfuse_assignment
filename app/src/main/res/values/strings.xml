@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movies Assignment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="no_favorite_movies">No favorite movies</string>
+    <string name="home">Home</string>
+    <string name="Release_date">Release Date: </string>
+    <string name="Favorites">Favorites</string>
+    <string name="movie_details">Movie details</string>
+    <string name="profile">Profile</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="update">UPDATE</string>
+</resources>

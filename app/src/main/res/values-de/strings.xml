@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zuweisung von Filmen</string>
+    <string name="navigation_drawer_open">Navigationsschublade öffnen</string>
+    <string name="navigation_drawer_close">Navigationsschublade schließen</string>
+    <string name="now_playing">Läuft gerade</string>
+    <string name="upcoming">Bevorstehende</string>
+    <string name="no_favorite_movies">Keine Lieblingsfilme</string>
+    <string name="home">Zuhause</string>
+    <string name="Favorites">Favoriten</string>
+    <string name="Release_date">Veröffentlichungsdatum: </string>
+    <string name="movie_details">Filmdetails</string>
+    <string name="profile">Profil</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="update">AKTUALISIEREN</string>
+</resources>
